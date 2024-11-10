@@ -1,0 +1,5 @@
+prefix              = "bastion"
+allowed_ssh_cidr    = "YOUR_IP/32"
+region              = "us-east-1"
+environment         = "staging"
+ssh_public_key_path = "~/.ssh/id_ed25519.pub"
